@@ -1,0 +1,6 @@
+C:\Users\Spencer\Documents\GitHub\VSProjects\CS-ASP_011\Before\CS-ASP_011\CS-ASP_011\bin\CS-ASP_011.dll.config
+C:\Users\Spencer\Documents\GitHub\VSProjects\CS-ASP_011\Before\CS-ASP_011\CS-ASP_011\bin\CS-ASP_011.dll
+C:\Users\Spencer\Documents\GitHub\VSProjects\CS-ASP_011\Before\CS-ASP_011\CS-ASP_011\bin\CS-ASP_011.pdb
+C:\Users\Spencer\Documents\GitHub\VSProjects\CS-ASP_011\Before\CS-ASP_011\CS-ASP_011\obj\Debug\CS-ASP_011.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\GitHub\VSProjects\CS-ASP_011\Before\CS-ASP_011\CS-ASP_011\obj\Debug\CS-ASP_011.dll
+C:\Users\Spencer\Documents\GitHub\VSProjects\CS-ASP_011\Before\CS-ASP_011\CS-ASP_011\obj\Debug\CS-ASP_011.pdb
